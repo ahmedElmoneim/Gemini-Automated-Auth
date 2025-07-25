@@ -1,6 +1,6 @@
 # Gemini-Automated-Auth
 
-1- run this code
+1- run AutomatedGeminiAuth.py
 
 2- manually auth
 
